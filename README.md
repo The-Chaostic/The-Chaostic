@@ -1,1 +1,1 @@
-https://github.com/The-Chaostic/The-Chaostic.git
+local library = loadstring(game:HttpGet(('https://github.com/The-Chaostic/The-Chaostic.git
